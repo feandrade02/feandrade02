@@ -173,7 +173,7 @@ Desbravando o mundo do desenvolvimento de software, aprendo um pouco mais a cada
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=feandrade02&theme=tokyonight&layout=compact&custom_title=Tecnologias mais utilizadas&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=feandrade02&theme=tokyonight&layout=compact&custom_title=Tecnologias+mais+utilizadas&langs_count=9" 
   />
 
 </p>

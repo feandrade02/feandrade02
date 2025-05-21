@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Desbravando o mundo do desenvolvimento de software, aprendo um pouco mais a cada dia sobre como resolver problemas com essa tecnologia tão poderosa que pode mudar vidas.
+Desbravando o mundo da Engenharia de Software e elaborando soluções para problemas reais utilizando as tecnologias da informação.
 
 <p align="left">
     <a href="https://github.com/feandrade02?tab=repositories&sort=stargazers">
@@ -164,16 +164,16 @@ Desbravando o mundo do desenvolvimento de software, aprendo um pouco mais a cada
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180em" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=feandrade02&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats-ntxacw195-felipe-andrades-projects-6eb8a7a4.vercel.app/api?username=feandrade02&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=feandrade02&theme=tokyonight&layout=compact&custom_title=Tecnologias+mais+utilizadas&langs_count=9" 
+      height="180em" 
+      src="https://github-readme-stats-ntxacw195-felipe-andrades-projects-6eb8a7a4.vercel.app/api/top-langs/?username=feandrade02&theme=tokyonight&layout=compact&custom_title=Tecnologias+mais+utilizadas&langs_count=9" 
   />
 
 </p>
